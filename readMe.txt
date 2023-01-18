@@ -40,7 +40,7 @@
 10. git remote -v / git ls-remote
 ## github 연결 상태 조회
 
-11. git push
+11. git push origin master
 ## 중앙 github 저장소로 업로드
 
 12. git pull
